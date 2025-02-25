@@ -34,25 +34,11 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚫𝚴𝐃𝚩𝚫𝐃-𝚻𝚵𝚫𝚳🇹🇿 
+𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝕝𝕦𝕔𝕜𝕨𝕚𝕤𝕖-𝚻𝚵𝚫𝚳🇹🇿 
 ╭─────────────────
 │❒⁠⁠⁠⁠╭─────────────
-│❒⁠⁠⁠⁠│▸ *𝐓𝐇𝐈𝐒 𝐀𝐑𝐄 𝐌𝐑 𝐀𝐍𝐃𝐁𝐀𝐃 𝐆𝐑𝐎𝐔𝐏 𝐋𝐈𝐍𝐊𝐒* 
-│❒⁠⁠⁠⁠│▸ *CHANNELS* 
-│❒⁠⁠⁠⁠│▸ *GROUPS*
-│❒⁠⁠⁠⁠╰──────────────
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VajQn6YF1YlPE0XgBC2m
-│❒⁠⁠⁠⁠│▸ *CHANNEL* :  https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x
-│❒⁠⁠⁠⁠│▸
-│❒⁠⁠⁠⁠│▸ 1. https://chat.whatsapp.com/K9VJDBIwGLc8sWszcEOhjo
-│❒⁠⁠⁠⁠│▸ 2. https://chat.whatsapp.com/LeXEFfLFyprAMI5rlBdfRj
-│❒⁠⁠⁠⁠│▸ 3. https://chat.whatsapp.com/KQUhHDtpBxUKfhl94OlxEf
-│❒⁠⁠⁠⁠│▸ 4. https://chat.whatsapp.com/Ilh736URrxrFUqp4qhRu7L
-│❒⁠⁠⁠⁠│▸ 5. https://chat.whatsapp.com/DU79JfdnOI83ZFVAyD74Mo
-│❒⁠⁠⁠⁠│▸ 6. https://chat.whatsapp.com/IIpL6gf6dcq4ial8gaJLE9
-│❒⁠⁠⁠⁠│▸ 7. https://chat.whatsapp.com/BfxM1Xk8aMV8kkps5NshND
-│❒⁠⁠⁠⁠│▸ *MAKE SURE YOU HAVE JOINED THIS GROUPS*
-│❒⁠⁠⁠⁠│▸ 
+│❒⁠⁠⁠⁠│▸ luckwise man
+│❒⁠⁠⁠⁠│▸ 255769028795
 │❒⁠⁠⁠⁠╰──────────────
 ╰──────────────────\n
   `;
